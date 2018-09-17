@@ -1,3 +1,3 @@
 # hello-world
 
-Crearting first project on GiitHub.
+Crearting first project on GitHub.
